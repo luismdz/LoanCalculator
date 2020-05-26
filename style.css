@@ -1,0 +1,13 @@
+#loading,
+#results {
+    display: none;
+}
+
+#results input.disabled {
+    background-color: #f9f9f9;
+}
+
+#results .input-group-text {
+    min-width: 160px;
+    text-align: left;
+}
