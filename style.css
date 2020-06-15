@@ -3,6 +3,11 @@
     display: none;
 }
 
+#loan-form .input-group-text {
+    min-width: 40px;
+    text-align: left;
+}
+
 #results input.disabled {
     background-color: #f9f9f9;
 }
